@@ -1,0 +1,119 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "Top",
+      "slots": [
+        {
+          "name": "CATEGORY",
+          "type": "CATEGORIES"
+        },
+        {
+          "name": "COUNT",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "YEARNO",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "Bottom",
+      "slots": [
+        {
+          "name": "CATEGORY",
+          "type": "CATEGORIES"
+        },
+        {
+          "name": "COUNT",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "YEARNO",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "TotalTradeSpend",
+      "slots": [
+        {
+          "name": "BRAND",
+          "type": "BRANDS"
+        },
+        {
+          "name": "CUSTOMER",
+          "type": "CUSTOMERS"
+        },
+        {
+          "name": "YEARNO",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "TotalGrossProfit",
+      "slots": [
+        {
+          "name": "BRAND",
+          "type": "BRANDS"
+        },
+        {
+          "name": "CUSTOMER",
+          "type": "CUSTOMERS"
+        },
+        {
+          "name": "YEARNO",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "TotalROI",
+      "slots": [
+        {
+          "name": "BRAND",
+          "type": "BRANDS"
+        },
+        {
+          "name": "CUSTOMER",
+          "type": "CUSTOMERS"
+        },
+        {
+          "name": "YEARNO",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HearMore"
+    },
+    {
+      "intent": "WhichInvest"
+    },
+    {
+      "intent": "WhichBest"
+    },
+    {
+      "intent": "DontHearMore"
+    },
+    {
+      "intent": "LoginHelp"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

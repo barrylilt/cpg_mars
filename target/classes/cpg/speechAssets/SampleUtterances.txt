@@ -1,0 +1,17 @@
+Top What are the top {COUNT} {CATEGORY} during year {YEARNO}
+Top top {COUNT} {CATEGORY} during year {YEARNO}
+Top give me top {COUNT} {CATEGORY} during year {YEARNO}
+Top tell me top {COUNT}  {CATEGORY} during year {YEARNO}
+Bottom What are the bottom {COUNT}  {CATEGORY} during year {YEARNO}
+Bottom bottom {COUNT} {CATEGORY} during year {YEARNO}
+Bottom give me bottom {COUNT}  {CATEGORY} during year {YEARNO}
+Bottom tell me bottom {COUNT}  {CATEGORY}  during year {YEARNO}
+TotalTradeSpend What is the Total Trade Spend for Year {YEARNO}
+TotalTradeSpend What is the Total Trade Spend for {BRAND}
+TotalTradeSpend What is the Total Trade Spend for {CUSTOMER}
+TotalGrossProfit What is the Total Gross Profit for Year {YEARNO}
+TotalGrossProfit What is the Total Gross Profit for {BRAND}
+TotalGrossProfit What is the Total Gross Profit for {CUSTOMER}
+TotalROI What is the Total ROI for Year {YEARNO}
+TotalROI What is the Total ROI for {BRAND}
+TotalROI What is the Total ROI for {CUSTOMER}
